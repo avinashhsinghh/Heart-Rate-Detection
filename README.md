@@ -1,6 +1,3 @@
-### NOTE: This project is no longer maintained -- it was a code school project from several years ago. As of 7/2017 I am on a one year travel haitus and am slowly (while on trains planes and in automobiles) dragging this project into a frontend and node backend module that can be applied to any project your heart desires. I will ignore any tickets opened on *this* repo, but feel free to fork (keep the license in mind, please) and have a good time with this for now.
-
-
 Pulse
 ===========
 
@@ -12,7 +9,6 @@ Pulse is based on techniques outlined in ["Non-contact, automated cardiac pulse 
 
 Pulse works because changes in blood volume in the face during the cardiac cycle modify the amount of ambient light reflected by the blood vessels. This change in brightness can be picked up as a periodic signal by a webcam. It is most prominent in the green channel, but using independent component analysis (ICA), an even more prominent signal can be extracted from a combination of the red, blue, and green channels.
 
-The process blog for this project is here: [Camille Codes](http://camillecodes.tumblr.com)
 
 Click through for more detailed explanations of the process and technology.
 
